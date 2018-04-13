@@ -9,3 +9,7 @@ print "dvgfsdfvgsadAWD"
 print "nsfvnskvmmdklmklvfer"
 
 print "edicao local"
+
+print "oba oba"
+
+print "usurpadora"
