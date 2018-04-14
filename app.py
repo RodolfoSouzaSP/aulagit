@@ -7,3 +7,7 @@ print "asdfasdgsdfgdf"
 print "dvgfsdfvgsadAWD"
 
 print "nsfvnskvmmdklmklvfer"
+
+print "oba oba"
+
+print "usurpadora"
