@@ -1,7 +1,9 @@
+
+
 * PRIMEIRO ARQUIVO DO GIT *
 
-** INSTRUCOES **
+* INSTRUCOES *
 
-* git add
-* git commit - m "alguma coisa"
-* git push
+ * git add *
+ * git commit - m "alguma coisa" *
+ * git push *
